@@ -1,0 +1,5 @@
+module TestApp {
+    interface Hello {
+        string hello(int no, string name);   //此处都是小写的string，不能用我们自定义的类
+    };
+};
